@@ -15,7 +15,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## Tidy Data Set Variables
 
 The tidy_data_set has the following variables. A more detailed explanation
-can be founf on the link given above.
+can be found on the link given above.
 
 * subject
 * Activity_ID
